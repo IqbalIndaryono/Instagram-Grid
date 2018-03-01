@@ -83,16 +83,16 @@
 </head>
 <body>
     <div class="box">
-        <div class="k1"><img id="ki1" src="Instagram-Grid/kat.jpg" height="150px" width="150px"></div>
+        <div class="k1"><img id="ki1" src="kat.jpg" height="150px" width="150px"></div>
         <div class="k2">
             <b>The cat next to me is a vicious predator</b><br>
             <p>Be careful!
         </div>
-        <div class="k3"><img id="ki1" src="Instagram-Grid/kat2.jpg" height="150px" width="150px"></div>
-        <div class="k4"><img id="ki1" src="Instagram-Grid/kat.jpg" height="150px" width="150px"></div>
-        <div class="k5"><img id="ki1" src="Instagram-Grid/kat2.jpg" height="150px" width="150px"></div>
-        <div class="k6"><img id="ki1" src="Instagram-Grid/kat.jpg" height="150px" width="150px"></div>
-        <div class="k7"><img id="ki1" src="Instagram-Grid/kat2.jpg" height="150px" width="150px"></div>
-        <div class="k8"><img id="ki1" src="Instagram-Grid/kat.jpg" height="150px" width="150px"></div>
+        <div class="k3"><img id="ki1" src="kat2.jpg" height="150px" width="150px"></div>
+        <div class="k4"><img id="ki1" src="kat.jpg" height="150px" width="150px"></div>
+        <div class="k5"><img id="ki1" src="kat2.jpg" height="150px" width="150px"></div>
+        <div class="k6"><img id="ki1" src="kat.jpg" height="150px" width="150px"></div>
+        <div class="k7"><img id="ki1" src="kat2.jpg" height="150px" width="150px"></div>
+        <div class="k8"><img id="ki1" src="kat.jpg" height="150px" width="150px"></div>
     </div>
 </body>
